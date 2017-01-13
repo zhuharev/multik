@@ -1,9 +1,0 @@
-{
-	"name":"Слайдер главной страницы",
-	"slug":"slider",
-	"data":[{
-		"type": "array_string",
-		"name": "images",
-		"value": null
-	}]
-}

@@ -1,9 +1,0 @@
-{
-	"name":"Промо",
-	"slug":"promo",
-	"data":[{
-		"type": "array_int",
-		"name": "ids",
-		"value": null
-	}]
-}

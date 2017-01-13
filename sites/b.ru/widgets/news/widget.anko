@@ -1,5 +1,0 @@
-posts,e = context.E.PostRubricList(8, widgetData)
-println(widgetData)
-println(posts)
-println(e)
-render(posts)

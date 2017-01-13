@@ -1,9 +1,0 @@
-<h1>{{.Title}}</h1>
-{{if .WikiPage}}
-{{markdown .WikiPage.BodyString}}
-<p>
-<a href="/wiki/{{.Title}}/edit">Редактировать страницу</a>
-</p>
-{{else}}
-Страница <b>{{.Title}}</b> ещё не создана, <a href="/wiki/{{.Title}}/edit">создать</a>.
-{{end}}
