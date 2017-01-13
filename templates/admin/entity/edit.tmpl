@@ -1,0 +1,70 @@
+<form action="" method="post">
+<div class="form-group">
+<label for="title">Заголовок</label>
+	<input class="form-control" type="text" id="title" name="title" value="{{.entity.Title}}">
+</div>
+<div>
+	<input type="text" name="price" value="{{.entity.Price}}">
+</div>
+{{$.entity.RubricId}}
+<div class="form-group">
+	<label for="">Рубрика</label>
+	<select class="form-control" name="rubric" id="rubric">{{range .Rubrics.GetAllForType "entity"}}
+	<option value="{{.Id}}" {{if eq $.entity.RubricId .Id}}selected="selected"{{end}}>{{.Title}}</option>{{end}}
+</select>
+</div>
+{{ printf "%s%s" (.Rubrics.PathString .entity.RubricId) .entity.Slug }}
+
+<button>Сохранить</button>
+</form>
+
+<h3>Добавить изображение</h3>
+
+{{ range .entity.Images }}
+<img src="/img/{{.}}_200x150.jpg" alt="">
+{{ end }}
+
+<link rel="stylesheet" href="/admin/css/dropzone.min.css">
+<form action="/admin/entity/{{ .entity.Id }}/upload?ajax=1" class="dropzone" id="dropzone" enctype="multipart/form-data"></form>
+<script src="/js/dropzone.min.js"></script>
+<script>
+
+//var myDropzone = new Dropzone(".dropzone", {  });
+myDropzone.on("success", function( file, result ) {
+  // the file parameter is https://developer.mozilla.org/en-US/docs/DOM/File
+  // the result parameter is the result from the server
+
+  // [success code here]
+  console.log(file);
+  console.log(result);
+});	
+</script>
+
+<div class="row">
+<div class="col-md-6">
+<ul class="list-group">{{range .entity.Values}}
+  <li class="list-group-item">{{ ($.entAttrs.Id .AttributeId).Name }}: {{ .Value }}</li>
+{{end}}
+</ul>
+</div>	
+</div>
+
+
+<br>
+
+<hr>
+
+	<div>
+<form action="/admin/entity/value/add" method="post">
+<label for="">Добавить характеристику</label>
+<input type="hidden" name="id" value="{{.entity.Id}}">
+<select name="attribute_id" id="">
+
+{{range .attributes}}
+<option value="{{.Id}}">{{.Name}}</option>
+{{end}}		
+</select>
+<input type="text" name="value" id="">
+<button>Dobavit</button>
+</form>
+	</div>

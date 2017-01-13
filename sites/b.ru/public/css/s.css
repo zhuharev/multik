@@ -1,0 +1,172 @@
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  height: 300px;
+  margin-bottom: 20px;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 300px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 300px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}
+
+.thumbnail>img{
+  margin-right: 10px;
+}
+.thumbnail .caption {
+  padding:0;
+}
+
+img {
+  border-radius: 4px;
+}
+
+.well {
+  margin-bottom:10px;
+  background: transparent;
+  border-radius: 0;
+  border: none;
+}
+
+.well .h2 {
+  margin:0;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.list-group h3 {
+  margin:0;
+}
+
+.product img {
+  border-radius:20px;
+}
+
+body {
+  background: url(/img/fon.jpg);
+  color:#422;
+  font-size:18px;
+  line-height: 22px;
+}
+
+p {
+  text-indent: 30px;
+}
+
+.container {
+  background: #fff;
+  min-height: 100%;
+  box-shadow: 0 0 70px -1px #000;
+}
+
+.navbar-collapse {
+  padding-left: 0;
+}
+.nav a {
+  color:#000;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+  background-color: #47A447;
+}
+.nav>li>a{
+  text-transform: uppercase;
+  font-family: 'Academy';
+  font-weight: 700;
+  font-size: 16px;
+  transition: all .2s;  
+}
+.nav>li>a:hover, .nav>li>a:focus {
+text-decoration: none;
+background-color: rgba(71, 164, 71, 0.41);
+}
+
+@media (min-width: 768px) {
+.navbar-nav>li>a {
+padding-top: 10px;
+padding-bottom: 10px;
+}
+}
+
+.nav-pills>li>a {
+  border-radius: 6px;
+  font-weight:700;
+}
+.nav-pills>li {
+  width:130px;
+  text-align: center;
+}
+
+a{
+  color: #333;
+}
+a:hover{
+  color: #444;
+}
+
+a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus{
+  background: #d53030;
+  border-color: #d53030;
+}
+
+
+.simple-slider {
+  margin: 10px 0%;
+  width: 100%; /* Update to your slider width */
+  height: 500px; /* Update to your slider height */
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  background: none;
+  box-shadow: 0 50px -10px #000;
+}
+
+.simple-slider li {
+  display: none;
+  position: absolute; 
+  top: 0; 
+  left: 0;
+  width: 100%;
+  background: none;
+
+}
+
+.simple-slider img {
+  width:100%;
+  height:500px;
+}
+
+
+
+
+.img-responsive {
+  display: inline-block;
+}
+
+.modal-dialog {
+  text-align: center;
+}

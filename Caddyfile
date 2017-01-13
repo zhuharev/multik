@@ -1,0 +1,6 @@
+:80 {
+	proxy / 127.0.0.1:4554 {
+		proxy_header Host {host}
+	}
+	
+}

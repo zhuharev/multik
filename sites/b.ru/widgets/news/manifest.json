@@ -1,0 +1,9 @@
+{
+	"name":"Новости",
+	"slug":"news",
+	"data":[{
+		"type": "int",
+		"name": "count",
+		"value": 3
+	}]
+}

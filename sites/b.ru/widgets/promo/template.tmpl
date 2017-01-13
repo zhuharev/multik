@@ -1,0 +1,14 @@
+<div class="row hide-height-1200">
+{{ range .}}
+<div class="col-md-6">
+          <div class="thumbnail clearfix">
+            <img src="/public_600x600.jpg" style="width:200px;height:150px;" class="pull-left">
+            <div class="caption">
+              <a href="{{.Uri}}"><h3>{{.Title}}</h3></a>
+              
+              <p><a href="{{.Uri}}" class="btn btn-primary" style="display:inline;" role="button">Подробнее »</a></p>
+            </div>
+          </div>
+        </div>
+{{end}}       
+      </div>

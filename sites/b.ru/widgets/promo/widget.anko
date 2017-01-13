@@ -1,0 +1,3 @@
+items,e = context.E.EntityGetByIds(widgetData)
+
+render(items)

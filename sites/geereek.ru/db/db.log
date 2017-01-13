@@ -1,0 +1,30 @@
+[xorm] [info]  2016/06/13 10:30:41.564718 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/13 10:31:06.633605 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/13 10:31:44.706739 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/13 10:32:53.226831 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/13 10:33:17.423651 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/13 10:35:03.593630 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/13 10:35:12.804726 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/13 10:35:13.746637 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/13 11:15:02.083072 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:15:54.261414 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:16:09.032511 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:18:28.277994 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:18:34.974051 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:18:51.315054 [sql] INSERT INTO `callback` (`name`, `phone`, `text`, `processed`, `created`) VALUES (?, ?, ?, ?, ?) [args] [kirill +7(900) 223-9250 купить false 0001-01-01 00:00:00]
+[xorm] [debug] 2016/06/13 11:18:51.323992 [time] INSERT INTO `callback` (`name`, `phone`, `text`, `processed`, `created`) VALUES (?, ?, ?, ?, ?) - args [kirill +7(900) 223-9250 купить false 0001-01-01 00:00:00] - execution took: 8858101ns
+[xorm] [info]  2016/06/13 11:18:57.765616 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:19:48.298864 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:20:08.565708 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:20:10.237691 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:20:10.677926 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:20:10.940552 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:20:11.157608 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:20:11.588726 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:21:12.222123 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:21:22.026712 [sql] INSERT INTO `callback` (`name`, `phone`, `text`, `processed`, `created`) VALUES (?, ?, ?, ?, ?) [args] [kirill +7(900) 223-9250 купить false 2016-06-13 08:21:22]
+[xorm] [debug] 2016/06/13 11:21:22.035526 [time] INSERT INTO `callback` (`name`, `phone`, `text`, `processed`, `created`) VALUES (?, ?, ?, ?, ?) - args [kirill +7(900) 223-9250 купить false 2016-06-13 08:21:22] - execution took: 8685325ns
+[xorm] [info]  2016/06/13 11:21:24.738401 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:22:16.128422 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:22:16.872992 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20
+[xorm] [info]  2016/06/13 11:22:17.317078 [sql] SELECT `id`, `name`, `phone`, `text`, `processed`, `created` FROM `callback` ORDER BY id desc LIMIT 20

@@ -1,0 +1,67 @@
+{{ .widget.Render "slider" }}
+    <div class="well well-lg">
+      <div class="row">
+        <div class="col-md-8">
+         <h3>Рады приветствовать!</h3>
+
+<p>С 1997 года мы профессионально занимаемся <strong>производством колбас, копченостей и полуфабрикатов, постоянно расширяя ассортимент</strong>.</p>
+
+<p>Благодаря высоким потребительским качествам продукции и конкурентоспособным ценам постоянно растет количество наших партнеров, как в Смоленске и Смоленской области, так и в других регионах.</p>
+
+<p>Сотрудничая с нами, Вы приобретаете:</p>
+
+<ul>
+	<li>надежного партнера,</li>
+	<li>высокое качество продукции, ее широкий ассортимент,</li>
+	<li>гибкую ценовую политику,</li>
+	<li>отличный сервис,</li>
+	<li>своевременные поставки.</li>
+</ul>
+
+<p>Площадь которого, составляет 5000 квадратных метров. В настоящее время ассортимент нашей <a href="/katalog">продукции</a> насчитывает около 120 наименований колбас и копченостей и более 70 наименований полуфабрикатов.</p>
+
+<p>Благодаря высокой рентабельности производства, мы в состоянии удерживать конкурентоспособные цены при неизменном качестве. Поэтому и во многих других городах, таких как, Брянск, Белгород, Курск, Липецк, Москва, Орел, Псков, Рязань, Тула, Тверь и др. наша продукция пользуется спросом.</p>
+
+<p>В 2015 году получена поддержка в форме субсидий на возмещение части затрат по приобретению дорогостоящего оборудования. Конкурс по предоставлению субсидий организовал Департамент Инвестиционного развития Смоленской области.</p>
+
+<p><img class="img-responsive" src="/public/img/6/f/4/6f4922f45568161a8cdf4ad2299f6d23_600x600.jpg" style="display:block" /></p>
+
+        </div>
+        <div class="col-md-4">
+          <div class="panel panel-default" id="sticker">
+            <div class="panel-heading"><b>Новости</b>
+            </div>
+            <div class="panel-body">
+              {{ .widget.Render "news" }}              
+            </div>
+            <div class="panel-footer"><a class="btn btn-success basic" href="#">Обратный звонок »</a></div>
+          </div>
+        </div>        
+      </div>
+    </div>
+<script src="/js/slider.js"></script>
+<script src="/js/jquery.sticky.js"></script>
+<script>
+  $(document).ready(function(){
+    var st = $("#sticker")
+    st.width(st.width())
+    st.sticky({topSpacing:10});
+  });
+</script>
+<script type='text/javascript' src='/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='/js/basic.js'></script>
+<link type='text/css' href='/css/basic.css' rel='stylesheet' media='screen' />
+    <div id="basic-modal-content">
+      <h3>Заказать обратный звонок</h3>
+      <form method="post" id="form">
+        <div class="form-group">
+          <label>Ваше имя</label>
+          <input class="form-control" type="kontakt" name="user_name" placeholder="Имя...">
+        </div>
+        <div class="form-group">
+          <label>Ваш номер</label>
+          <input class="form-control" type="kontakt" name="phone" placeholder="номер...">
+        </div>
+          <button class="btn btn-default">Отправить</button>
+      </form>
+    </div>

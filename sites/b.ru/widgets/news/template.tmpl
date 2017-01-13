@@ -1,0 +1,10 @@
+{{range .}}
+              <div class="media">
+                <a class="pull-left" href="{{ .Slug }}">
+                  <img class="media-object" src="/public/img/3/8/d/38db3aed920cf82ab059bfccbd02be6a_64x64.jpg" alt="Third slide" width="64px" height="64px">
+                </a>
+                <div class="media-body">
+                  <a href="{{ .Slug }}"><h4 class="media-heading">{{ .Title }}</h4></a>   
+               </div>
+              </div>
+{{ end }}

@@ -1,0 +1,9 @@
+{{ define "item_edit_form"}}
+<form method="post" action="/admin/menus/itemedit?id={{ .Id }}">
+	<input type="text" name="title" placeholder="title" value="{{ .Title }}">
+	<input type="text" name="link" placeholder="link" value="{{ .Link }}">
+	<input type="hidden" name="menu_id" value="{{ .MenuId }}">
+	<input type="text" name="parent" value="{{ .ParentId }}">
+	<button>Create</button>
+</form>
+{{end}}

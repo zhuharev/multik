@@ -1,0 +1,26 @@
+<div><a href="/admin/menus/edit?id={{ .menuitem.MenuId }}">В меню</a></div>
+
+
+<form method="post">
+<input type="text" name="title" placeholder="title" value="{{ .menuitem.Title }}">
+<input type="text" name="link" placeholder="link" value="{{ .menuitem.Link }}">
+	<button>Sabmit</button>
+</form>
+
+<div>
+
+<ul class="list">
+{{ range .Menus.Items.Childs .menuitem.Id }}
+	<li>{{ template "item_edit_form" .}}</li>
+{{ end }}
+</ul>
+
+<h3>Добавить подпункт</h3>
+<form method="post" action="/admin/menus/itemcreate">
+<input type="text" name="title" placeholder="title" value="{{ .menuitem.Title }}">
+<input type="text" name="link" placeholder="link" value="{{ .menuitem.Link }}">
+<input type="hidden" name="parent" value="{{ .menuitem.Id }}">
+<input type="hidden" name="menu_id" value="{{ .menuitem.MenuId }}">
+<button>Sabmit</button>
+</form>
+</div>

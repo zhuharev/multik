@@ -1,0 +1,25 @@
+<form action="" method="post">
+	<div class="form-group">
+		<label for="title">Заголовок</label>
+		<input class="form-control" type="text" id="title" name="title" value="{{.rubric.Title}}">
+	</div>
+	<div class="form-group">
+		<label for="slug">Ссылка</label>
+		<input class="form-control" type="text" id="slug" name="slug" value="{{.rubric.Slug}}">
+	</div>
+	<div class="form-group">
+		<label for="parent">Родитель</label>
+		<select name="parent" id="">
+			<option value="0">Нет</option>
+		{{ range .Rubrics}} 
+			<option value="{{ .Id }}">{{ .Title }}</option>{{ end }}
+		</select>
+	</div>
+	<div class="form-group">
+		<label for="item_type">Тип данных</label>
+		<select name="item_type" id="">
+			{{range .AvailableObjects}}<option value="{{printf "%d" .}}">{{.}}</option>{{end}}
+		</select>
+	</div>
+	<button>Создать</button>
+</form>

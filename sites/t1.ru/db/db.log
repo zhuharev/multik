@@ -1,0 +1,1044 @@
+[xorm] [info]  2016/05/15 23:58:36.983455 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/15 23:58:36.983934 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/15 23:58:36.984110 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/15 23:58:36.984305 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/15 23:58:36.985560 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:00:11.043029 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:00:11.043386 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:00:11.043649 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:00:11.043877 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:00:11.044133 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:01:31.907294 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:01:31.908426 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:01:31.908645 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:01:31.908868 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:01:31.909146 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:01:32.763352 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:01:32.763818 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:01:32.764098 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:01:32.764440 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:01:32.764872 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:02:04.870841 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:02:04.871284 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:02:04.871492 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:02:04.871716 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:02:04.871880 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:02:04.872038 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [0]
+[xorm] [info]  2016/05/16 00:02:04.872226 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:03:55.693434 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:03:55.693912 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:03:55.694093 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:03:55.694282 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:03:55.694451 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:03:55.694578 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [0]
+[xorm] [info]  2016/05/16 00:03:55.694753 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:05:01.512576 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:05:01.513020 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:05:01.513213 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:05:01.513411 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:05:01.513561 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:05:01.513991 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [0]
+[xorm] [info]  2016/05/16 00:05:01.514301 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:06:18.202490 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:06:18.202921 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:06:18.203111 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:06:18.203345 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:06:18.203590 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:06:18.203872 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [0]
+[xorm] [info]  2016/05/16 00:06:18.204888 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:06:57.741061 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:06:57.742779 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:06:57.743216 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:06:57.743413 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:06:57.743601 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:06:57.745233 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:06:57.745452 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:07:47.928665 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:07:47.929077 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:07:47.929281 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:07:47.929483 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:07:47.929654 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:07:47.929869 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:07:47.930073 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:08:00.962975 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:08:00.963371 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:00.963608 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:08:00.963789 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:00.963947 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:00.964134 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:00.964317 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:08:39.780076 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:08:39.780401 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:39.780565 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:08:39.780736 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:39.780897 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:39.781114 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:39.781324 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:08:43.701060 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:08:43.701396 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:43.701572 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:08:43.701740 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:43.701879 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:43.702262 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:43.702499 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:08:48.318894 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:08:48.319248 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:48.319471 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:08:48.319740 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:48.319925 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:48.320325 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:48.320539 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:08:59.575855 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:08:59.576406 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:59.576608 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:08:59.576822 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:59.577030 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:59.577271 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:08:59.577489 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 00:09:00.169841 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:09:00.170196 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:09:00.170369 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 00:09:00.170539 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:09:00.170682 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:09:00.171080 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 00:09:00.171270 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 20:06:33.070826 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/05/16 20:06:37.338235 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/05/16 20:06:40.411482 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 20:06:40.411815 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 20:06:40.412004 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/05/16 20:06:40.412184 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 20:06:40.412324 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 20:06:40.413996 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/05/16 20:06:40.414264 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/05/16 20:40:35.459474 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/05/16 20:40:38.166313 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/05/16 21:01:54.226521 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/05/23 10:20:30.549446 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/05/23 10:20:30.964275 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/05/23 11:42:06.463359 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/05/23 11:56:00.447415 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/07 11:22:19.861006 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/07 11:24:28.145273 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/07 11:32:31.605693 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/07 11:32:33.764992 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/07 11:35:41.979377 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:35:41.979733 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:35:41.979897 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:35:41.980080 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:35:41.980222 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:35:41.981100 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:35:41.981513 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:36:08.135179 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:36:08.135519 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:08.135678 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:36:08.135852 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:08.135992 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:08.136525 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:08.136956 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:36:21.727712 [sql] INSERT INTO `entity` (`title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id`) VALUES (?, ?, ?, ?, ?, ?) [args] [Флэшка 8Гб null null null 0 0]
+[xorm] [debug] 2016/06/07 11:36:21.737328 [time] INSERT INTO `entity` (`title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id`) VALUES (?, ?, ?, ?, ?, ?) - args [Флэшка 8Гб null null null 0 0] - execution took: 9542588ns
+[xorm] [info]  2016/06/07 11:36:29.169078 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:36:29.169502 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:29.169734 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:36:29.169960 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:29.170101 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:29.170287 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:29.170468 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:36:34.639380 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:36:34.639719 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:36:34.639905 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN ())
+[xorm] [info]  2016/06/07 11:36:34.640043 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN ())
+[xorm] [info]  2016/06/07 11:36:34.640191 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:36:48.469633 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:36:48.469961 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE value = ? and attribute_id = ? LIMIT 1 [args] [#eee 1]
+[xorm] [info]  2016/06/07 11:36:48.470118 [sql] INSERT INTO `value` (`attribute_id`, `attribute`, `value`) VALUES (?, ?, ?) [args] [1 <nil> #eee]
+[xorm] [debug] 2016/06/07 11:36:48.477024 [time] INSERT INTO `value` (`attribute_id`, `attribute`, `value`) VALUES (?, ?, ?) - args [1 <nil> #eee] - execution took: 6858589ns
+[xorm] [info]  2016/06/07 11:36:48.477141 [sql] UPDATE `entity` SET `title` = ?, `value_ids` = ? WHERE `id` = ? [args] [Флэшка 8Гб [2] 2]
+[xorm] [debug] 2016/06/07 11:36:48.483812 [time] UPDATE `entity` SET `title` = ?, `value_ids` = ? WHERE `id` = ? - args [Флэшка 8Гб [2] 2] - execution took: 6627179ns
+[xorm] [info]  2016/06/07 11:36:48.493407 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:36:48.493760 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:36:48.493943 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:36:48.494139 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:36:48.494303 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:36:48.495211 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:48.495421 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:36:52.337222 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:36:52.337699 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:36:52.338052 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:36:52.338455 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:36:52.338772 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:36:52.339224 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:52.344947 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:36:53.595802 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:36:53.596135 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:36:53.596299 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:36:53.596476 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:36:53.596623 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:36:53.597949 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:36:53.598145 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:37:04.920275 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/07 11:37:04.920527 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE value = ? and attribute_id = ? LIMIT 1 [args] [ 0]
+[xorm] [info]  2016/06/07 11:37:04.920676 [sql] INSERT INTO `value` (`attribute_id`, `attribute`, `value`) VALUES (?, ?, ?) [args] [0 <nil> ]
+[xorm] [debug] 2016/06/07 11:37:04.927446 [time] INSERT INTO `value` (`attribute_id`, `attribute`, `value`) VALUES (?, ?, ?) - args [0 <nil> ] - execution took: 6725601ns
+[xorm] [info]  2016/06/07 11:37:04.927567 [sql] UPDATE `entity` SET `value_ids` = ? WHERE `id` = ? [args] [[3] 0]
+[xorm] [debug] 2016/06/07 11:37:04.927733 [time] UPDATE `entity` SET `value_ids` = ? WHERE `id` = ? - args [[3] 0] - execution took: 147953ns
+[xorm] [info]  2016/06/07 11:37:09.514895 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/07 11:37:09.515133 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE value = ? and attribute_id = ? LIMIT 1 [args] [ 0]
+[xorm] [info]  2016/06/07 11:37:09.515330 [sql] UPDATE `entity` SET `value_ids` = ? WHERE `id` = ? [args] [[3] 0]
+[xorm] [debug] 2016/06/07 11:37:09.515426 [time] UPDATE `entity` SET `value_ids` = ? WHERE `id` = ? - args [[3] 0] - execution took: 75613ns
+[xorm] [info]  2016/06/07 11:38:49.728511 [sql] INSERT INTO `attribute` (`name`, `value_type`) VALUES (?, ?) [args] [Вес 1]
+[xorm] [debug] 2016/06/07 11:38:49.735312 [time] INSERT INTO `attribute` (`name`, `value_type`) VALUES (?, ?) - args [Вес 1] - execution took: 6731271ns
+[xorm] [info]  2016/06/07 11:39:07.491567 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:39:07.491898 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:39:07.492062 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:39:07.492235 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:39:07.492377 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:39:07.495657 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:39:07.496158 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:39:20.004145 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:39:20.004515 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [2]
+[xorm] [info]  2016/06/07 11:39:20.004679 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE value = ? and attribute_id = ? LIMIT 1 [args] [12 2]
+[xorm] [info]  2016/06/07 11:39:20.005359 [sql] INSERT INTO `value` (`attribute_id`, `attribute`, `value`) VALUES (?, ?, ?) [args] [2 <nil> 12]
+[xorm] [debug] 2016/06/07 11:39:20.011330 [time] INSERT INTO `value` (`attribute_id`, `attribute`, `value`) VALUES (?, ?, ?) - args [2 <nil> 12] - execution took: 5916729ns
+[xorm] [info]  2016/06/07 11:39:20.011466 [sql] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"}] 2]
+[xorm] [debug] 2016/06/07 11:39:20.018657 [time] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"}] 2] - execution took: 7133485ns
+[xorm] [info]  2016/06/07 11:39:20.028254 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:39:20.028617 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:39:20.028944 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:39:20.029150 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:39:20.029347 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:39:20.029614 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:39:20.029845 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:40:45.820816 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:40:45.821159 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:40:45.821321 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:40:45.821491 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:40:45.821634 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:40:45.822377 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:40:45.822796 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:41:47.011807 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:41:47.012335 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:41:47.012519 [sql] SELECT `id`, `title`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:41:47.012711 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:41:47.012899 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:41:47.013120 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:41:47.013316 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:44:49.235033 [sql] SELECT `id`, `title`, `price`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:44:49.235406 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:44:49.235585 [sql] SELECT `id`, `title`, `price`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/07 11:44:49.235772 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:44:49.235939 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:44:49.236915 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/07 11:44:49.237251 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:44:54.211563 [sql] SELECT `id`, `title`, `price`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:44:54.211959 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:44:54.212208 [sql] SELECT `id`, `title`, `price`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:44:54.212411 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:44:54.212632 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:44:54.214917 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:44:54.215436 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:50:15.081695 [sql] SELECT `id`, `title`, `price`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:50:15.082328 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:50:15.082570 [sql] SELECT `id`, `title`, `price`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:50:15.082819 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:50:15.083048 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:50:15.083532 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:50:15.083818 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:50:15.706778 [sql] SELECT `id`, `title`, `price`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:50:15.707165 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:50:15.707428 [sql] SELECT `id`, `title`, `price`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:50:15.707645 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:50:15.707850 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:50:15.708146 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:50:15.708382 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:50:41.705806 [sql] SELECT `id`, `title`, `price`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:50:41.706202 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:50:41.706428 [sql] SELECT `id`, `title`, `price`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:50:41.706639 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:50:41.706841 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:50:41.707048 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:50:41.707265 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:51:28.268171 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:51:28.268618 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:51:28.269031 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:51:28.269280 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:51:28.269550 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:51:28.270494 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:51:28.270992 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:51:29.288843 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:51:29.289275 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:51:29.289535 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:51:29.289808 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:51:29.290091 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:51:29.290550 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:51:29.290833 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:51:41.784592 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:51:41.785107 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:51:41.785345 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:51:41.785557 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:51:41.785777 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:51:41.786918 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:51:41.788215 [sql] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:51:41.798117 [time] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 9840722ns
+[xorm] [info]  2016/06/07 11:51:41.798223 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:52:20.300469 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:52:20.300917 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:52:20.301174 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:52:20.301383 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:52:20.301568 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:52:20.301824 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:52:20.302051 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:52:23.552264 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:52:23.552692 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:52:23.553546 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:52:23.553778 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:52:23.553960 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:52:23.555767 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:52:23.556609 [sql] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:52:23.564071 [time] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 7170859ns
+[xorm] [info]  2016/06/07 11:52:23.564196 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:55:15.856766 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:55:15.857170 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:15.857417 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:55:15.857645 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:15.857829 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:15.858372 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:55:15.858745 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:55:18.638650 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:55:18.639063 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:18.639292 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:55:18.639522 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:18.639707 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:18.640396 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:55:18.641308 [sql] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:55:18.647976 [time] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 6561136ns
+[xorm] [info]  2016/06/07 11:55:18.648098 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:55:51.149237 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:55:51.149684 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:51.149925 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:55:51.150128 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:51.150304 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:51.150954 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:55:51.152366 [sql] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:55:51.160398 [time] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 7862750ns
+[xorm] [info]  2016/06/07 11:55:51.160514 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:55:54.562456 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:55:54.562868 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:54.563160 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:55:54.563395 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:54.563606 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:55:54.564442 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:55:54.565693 [sql] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:55:54.571792 [time] UPDATE `entity` SET `title` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 6048300ns
+[xorm] [info]  2016/06/07 11:55:54.571930 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:57:32.602698 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:57:32.603163 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:57:32.603432 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:57:32.603659 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:57:32.603859 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:57:32.605117 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:57:32.606369 [sql] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб 12300 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:57:32.615289 [time] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб 12300 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 8802613ns
+[xorm] [info]  2016/06/07 11:57:32.615376 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:57:41.100797 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:57:41.101186 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:57:41.101426 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:57:41.101637 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:57:41.101817 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:57:41.102572 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:57:41.102998 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:06.619958 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:06.620400 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:06.620678 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:06.621186 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:06.621435 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:06.622144 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:06.623401 [sql] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб 123400 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:58:06.630428 [time] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб 123400 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 6870833ns
+[xorm] [info]  2016/06/07 11:58:06.630552 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:08.886723 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:08.887140 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:08.887391 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:08.887620 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:08.887820 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:08.893561 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:08.894333 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:14.641151 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:14.641589 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:14.641802 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:14.642009 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:14.642210 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:14.642564 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:14.642933 [sql] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб 12300 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:58:14.650375 [time] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб 12300 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 7393581ns
+[xorm] [info]  2016/06/07 11:58:14.650471 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:18.380395 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:18.381024 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:18.381452 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:18.381847 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:18.382069 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:18.383002 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:18.384309 [sql] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб 12313 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:58:18.391424 [time] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб 12313 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 7003887ns
+[xorm] [info]  2016/06/07 11:58:18.391564 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:22.767201 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:22.767604 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:22.767852 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:22.768057 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:22.768315 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:22.768676 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:22.769056 [sql] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб 12314 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:58:22.775539 [time] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб 12314 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 6427864ns
+[xorm] [info]  2016/06/07 11:58:22.775667 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:25.917963 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:25.918366 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:25.918611 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:25.918846 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:25.919025 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:25.919267 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:25.919475 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:34.110357 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:34.110738 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:34.110962 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:34.111168 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:34.111348 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:34.112141 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:34.112687 [sql] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб 12350 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:58:34.118637 [time] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб 12350 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 5831673ns
+[xorm] [info]  2016/06/07 11:58:34.118715 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:36.057919 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:36.058289 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:36.058524 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:36.058728 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:36.058907 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:36.059680 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:36.060136 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:39.541060 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:39.541461 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:39.541705 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:39.541924 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:39.542118 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:39.542898 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:39.543278 [sql] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб 12355 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:58:39.549856 [time] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб 12355 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 6530172ns
+[xorm] [info]  2016/06/07 11:58:39.549948 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:41.040871 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:41.041228 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:41.041452 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:41.041661 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:41.041837 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:41.044500 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:41.044766 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:45.276270 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:45.276676 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:45.277327 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:45.277575 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:45.277756 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:45.280804 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:45.281414 [sql] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб 12349 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:58:45.286832 [time] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб 12349 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 5368370ns
+[xorm] [info]  2016/06/07 11:58:45.286906 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:46.670214 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:46.670578 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:46.670823 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:46.671087 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:46.671322 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:46.671811 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:46.672087 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:51.610297 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:51.610778 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:51.611102 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:51.611529 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:51.611754 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:51.612452 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:51.613410 [sql] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? [args] [Флэшка 8Гб 12350 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2]
+[xorm] [debug] 2016/06/07 11:58:51.619893 [time] UPDATE `entity` SET `title` = ?, `price_data` = ?, `value_ids` = ?, `values` = ? WHERE `id` = ? - args [Флэшка 8Гб 12350 [2,4] [{"Id":2,"AttributeId":1,"Attribute":null,"Value":"#eee"},{"Id":4,"AttributeId":2,"Attribute":null,"Value":"12"}] 2] - execution took: 6430764ns
+[xorm] [info]  2016/06/07 11:58:51.619992 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:58:53.731293 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:53.731657 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:53.731887 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:58:53.732109 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:53.732305 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:58:53.735797 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:58:53.736137 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:59:36.297568 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:59:36.297956 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:59:36.298186 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:59:36.298399 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:59:36.298594 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:59:36.299366 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:59:36.299640 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 11:59:58.174085 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:59:58.174439 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:59:58.174657 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 11:59:58.174862 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:59:58.175044 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 11:59:58.177208 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 11:59:58.177619 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 12:26:19.746799 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 12:26:19.747163 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 12:26:19.747382 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 12:26:19.747581 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 12:26:19.747764 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 12:26:19.748424 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 12:26:19.748853 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/07 13:07:37.133932 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 13:07:37.134306 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 13:07:37.134529 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [2]
+[xorm] [info]  2016/06/07 13:07:37.134734 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 13:07:37.134923 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?,?)) [args] [2 4]
+[xorm] [info]  2016/06/07 13:07:37.135782 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?,?)) [args] [1 2]
+[xorm] [info]  2016/06/07 13:07:37.136389 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/08 14:20:43.820576 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/08 14:20:47.460685 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 14:20:47.461086 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 14:20:47.461251 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 14:20:47.461458 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 14:20:47.461615 [sql] SELECT DISTINCT `attribute_id` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 14:20:47.462704 [sql] SELECT `id`, `name`, `value_type` FROM `attribute` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 14:20:47.463252 [sql] SELECT `id`, `name`, `value_type` FROM `attribute`
+[xorm] [info]  2016/06/08 14:20:52.427396 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/08 14:22:41.952734 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/08 14:44:58.308722 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/08 15:04:40.953982 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 15:04:40.956765 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 15:04:42.070656 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 15:04:42.071046 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 15:04:50.937434 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 15:04:50.937779 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 15:05:43.626300 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 15:05:43.626814 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 21:36:06.285252 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/08 21:36:07.266038 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/08 21:36:07.608588 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/08 21:36:08.146575 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/08 21:36:16.641342 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 21:36:16.641892 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 21:54:06.026371 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 21:54:06.027942 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 22:14:16.021475 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 22:14:16.021832 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 22:14:22.106762 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 22:14:22.107107 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 22:16:49.734581 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 22:16:49.734952 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 22:16:51.799113 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 22:16:51.799485 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 22:16:52.629973 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 22:16:52.630339 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 22:16:53.146913 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 22:16:53.147260 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 22:16:53.560973 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 22:16:53.561310 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:24:15.251944 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:24:15.252307 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:24:16.087140 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:24:16.087548 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:24:16.800622 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:24:16.800973 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:46:03.387984 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:46:03.388343 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:46:05.087495 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:46:05.087846 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:46:05.656652 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:46:05.657010 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:46:06.049663 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:46:06.050266 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:46:30.984164 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:46:30.984530 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:53:07.457962 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:53:07.458309 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:53:08.042369 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:53:08.042731 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:53:08.511996 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:53:08.512498 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:53:08.890393 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:53:08.890796 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:53:09.286504 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:53:09.286847 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:53:09.696965 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:53:09.697351 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:53:09.955683 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:53:09.956026 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/08 23:53:10.179373 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/08 23:53:10.179711 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/09 00:09:30.877836 [sql] SELECT `id`, `title`, `price_data`, `value_ids`, `values`, `attributes`, `manufacturer_id`, `model_id` FROM `entity` WHERE `id` = ? LIMIT 1 [args] [1]
+[xorm] [info]  2016/06/09 00:09:30.878261 [sql] SELECT `id`, `attribute_id`, `attribute`, `value` FROM `value` WHERE (`id` IN (?)) [args] [1]
+[xorm] [info]  2016/06/10 21:44:21.688370 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/10 21:44:26.841307 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/10 21:44:27.257569 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/10 22:07:14.672423 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/10 22:07:21.059416 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/10 22:25:09.699898 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/10 22:25:47.388221 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/10 22:25:48.026641 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/10 22:25:48.320365 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/10 22:25:48.707535 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/06/13 10:30:29.105840 [sql] SELECT `id`, `title`, `body` FROM `page` WHERE `id` = ? LIMIT 1 [args] [0]
+[xorm] [info]  2016/10/16 02:48:09.750452 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/16 02:48:09.751225 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/16 02:48:09.751352 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/16 02:48:09.907003 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/16 02:48:09.907252 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/16 02:48:09.907384 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/16 02:48:09.907568 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/16 02:48:11.239191 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/16 02:48:11.239434 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/16 02:48:11.239565 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/16 02:48:11.310651 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/16 02:48:11.310895 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/16 02:48:11.311013 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/16 02:48:11.311169 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/16 03:02:49.993918 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/16 03:02:49.994151 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/16 03:02:49.994264 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/16 03:02:50.078306 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/16 03:02:50.078527 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/16 03:02:50.078629 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/16 03:02:50.078762 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/16 11:13:48.639009 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/16 11:13:48.639292 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/16 11:13:48.639473 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/16 11:13:48.800438 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/16 11:13:48.800673 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/16 11:13:48.800798 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/16 11:13:48.800933 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/16 12:11:26.287222 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/16 12:11:26.287478 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/16 12:11:26.287584 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/16 12:11:26.468143 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/16 12:11:26.468368 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/16 12:11:26.468473 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/16 12:11:26.468607 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 00:38:24.644235 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:38:24.645127 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:38:24.645242 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:38:24.787609 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:38:24.787851 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:38:24.787955 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:38:24.788085 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 00:38:28.590164 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:38:28.590381 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:38:28.590479 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:38:28.590603 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/wiki]
+[xorm] [info]  2016/10/19 00:38:28.678221 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:38:28.678451 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:38:28.678558 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:38:28.678682 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 00:41:43.575487 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:41:43.575751 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:41:43.575871 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:41:43.576231 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/wiki]
+[xorm] [info]  2016/10/19 00:41:43.702370 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:41:43.702618 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:41:43.702729 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:41:43.702871 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 00:41:46.215681 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:41:46.215967 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:41:46.216097 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:41:46.315178 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:41:46.315403 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:41:46.315527 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:41:46.315666 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 00:42:38.488469 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:42:38.488717 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:42:38.488832 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:42:38.606313 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:42:38.606562 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:42:38.606672 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:42:38.606809 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 00:44:03.495913 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:44:03.496181 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:44:03.496322 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:44:03.634950 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:44:03.635181 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:44:03.635293 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:44:03.635434 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 00:49:00.640812 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:49:00.641045 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:49:00.641172 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:49:00.763051 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 00:49:00.763305 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 00:49:00.763411 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 00:49:00.763553 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:09:20.401983 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:09:20.402237 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:09:20.402371 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:09:20.402642 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:09:20.516755 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:09:20.517000 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:09:20.517104 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:09:20.517241 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:09:26.750219 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:09:26.750517 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:09:26.750655 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:09:26.750834 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:09:26.868603 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:09:26.868830 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:09:26.868931 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:09:26.869065 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:10:29.895407 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:10:29.895770 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:10:29.895938 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:10:29.896167 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:10:30.024833 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:10:30.025104 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:10:30.025236 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:10:30.025395 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:10:58.999432 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:10:58.999736 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:10:58.999880 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:10:59.000065 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:10:59.125941 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:10:59.126208 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:10:59.126334 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:10:59.126494 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:11:12.219108 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:12.219371 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:12.219532 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:12.219713 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:11:12.357451 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:12.357676 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:12.357787 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:12.357926 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:11:15.538596 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:15.538822 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:15.538930 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:15.539120 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:11:15.539253 [sql] INSERT INTO `wiki_page` (`slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) [args] [adf  [208 178 208 176 209 132 209 139 208 178 208 176 209 132 209 139 208 178 208 176] 0 0 0 0 0 0]
+[xorm] [debug] 2016/10/19 01:11:15.539336 [time] INSERT INTO `wiki_page` (`slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) - args [adf  [208 178 208 176 209 132 209 139 208 178 208 176 209 132 209 139 208 178 208 176] 0 0 0 0 0 0] - execution took: 47419ns
+[xorm] [info]  2016/10/19 01:11:15.546396 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:15.546630 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:15.546747 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:15.546907 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:11:15.629016 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:15.629289 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:15.629427 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:15.629587 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:11:16.777956 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:16.778183 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:16.778295 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:16.778447 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:11:16.881175 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:16.881647 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:16.881834 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:16.882243 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:11:17.527207 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:17.527644 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:17.527888 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:17.528233 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:11:17.611397 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:17.611668 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:17.611775 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:17.611907 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:11:52.120823 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:52.121084 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:52.121212 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:52.121382 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:11:52.265580 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:11:52.265852 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:11:52.265984 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:11:52.266148 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:14:46.949558 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:14:46.949829 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:14:46.949951 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:14:46.950194 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:14:47.040665 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:14:47.041039 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:14:47.041167 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:14:47.041334 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:14:50.878630 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:14:50.878922 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:14:50.879066 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:14:50.879257 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:14:50.990634 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:14:50.990884 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:14:50.991066 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:14:50.991225 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:14:52.519615 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:14:52.519842 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:14:52.519948 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:14:52.520116 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:14:52.520246 [sql] INSERT INTO `wiki_page` (`slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) [args] [adf  [115 100 102 100 102] 0 0 0 0 0 0]
+[xorm] [debug] 2016/10/19 01:14:52.520318 [time] INSERT INTO `wiki_page` (`slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) - args [adf  [115 100 102 100 102] 0 0 0 0 0 0] - execution took: 49138ns
+[xorm] [info]  2016/10/19 01:14:52.528176 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:14:52.528402 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:14:52.528519 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:14:52.528672 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:14:52.610750 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:14:52.611014 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:14:52.611143 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:14:52.611307 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:15:56.250252 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:15:56.250479 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:15:56.250597 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:15:56.250755 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:15:56.386598 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:15:56.386850 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:15:56.386976 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:15:56.387115 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:15:57.902992 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:15:57.903264 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:15:57.903390 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:15:57.903555 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:15:58.002531 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:15:58.002783 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:15:58.002910 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:15:58.003079 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:15:59.416486 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:15:59.416768 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:15:59.416914 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:15:59.417142 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:15:59.417359 [sql] INSERT INTO `wiki_page` (`slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) [args] [adf  [115 100 102 115 100 102 97] 0 0 0 0 0 0]
+[xorm] [debug] 2016/10/19 01:15:59.435198 [time] INSERT INTO `wiki_page` (`slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) - args [adf  [115 100 102 115 100 102 97] 0 0 0 0 0 0] - execution took: 17794126ns
+[xorm] [info]  2016/10/19 01:15:59.443304 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:15:59.443612 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:15:59.443723 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:15:59.443881 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [adf]
+[xorm] [info]  2016/10/19 01:15:59.549256 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:15:59.549472 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:15:59.549579 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:15:59.549709 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:16:07.572233 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:16:07.572493 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:16:07.572628 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:16:07.572810 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:16:07.689181 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:16:07.689463 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:16:07.689580 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:16:07.689763 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:16:10.803043 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:16:10.803303 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:16:10.803456 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:16:10.803664 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:16:10.897768 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:16:10.898025 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:16:10.898167 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:16:10.898321 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:16:23.940785 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:16:23.943001 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:16:23.949843 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:16:23.950072 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:16:23.950244 [sql] INSERT INTO `wiki_page` (`slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) [args] [Шабельник  [208 168 208 176 208 177 208 181 208 187 209 140 208 189 208 184 208 186 32 208 190 209 135 208 181 208 189 209 140 32 209 133 208 190 209 128 208 190 209 136 208 184 208 185 32 209 135 208 181 208 187 208 190 208 178 208 181 208 186] 0 0 0 0 0 0]
+[xorm] [debug] 2016/10/19 01:16:23.956521 [time] INSERT INTO `wiki_page` (`slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) - args [Шабельник  [208 168 208 176 208 177 208 181 208 187 209 140 208 189 208 184 208 186 32 208 190 209 135 208 181 208 189 209 140 32 209 133 208 190 209 128 208 190 209 136 208 184 208 185 32 209 135 208 181 208 187 208 190 208 178 208 181 208 186] 0 0 0 0 0 0] - execution took: 6214735ns
+[xorm] [info]  2016/10/19 01:16:23.975147 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:16:23.975373 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:16:23.975474 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:16:23.975641 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:16:24.055001 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:16:24.055226 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:16:24.055327 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:16:24.055455 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:16:57.795280 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:16:57.795524 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:16:57.795632 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:16:57.795779 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:16:57.944063 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:16:57.944289 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:16:57.944391 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:16:57.944520 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:00.185320 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:00.185577 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:00.185708 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:00.185877 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:00.289267 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:00.289499 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:00.289600 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:00.289729 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:04.408254 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:04.408496 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:04.408616 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:04.408773 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:04.508724 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:04.509003 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:04.509121 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:04.509299 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:19.479756 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:19.480050 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:19.480179 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:19.480347 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:19.622802 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:19.623013 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:19.623119 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:19.623248 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:29.460748 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:29.461017 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:29.461145 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:29.461359 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:29.461705 [sql] INSERT INTO `wiki_delta` (`item_id`, `prev_delta`, `description`, `delta`, `owner`, `created`) VALUES (?, ?, ?, ?, ?, ?) [args] [2 0  [61 51 49 9 45 50 48] 0 0]
+[xorm] [debug] 2016/10/19 01:17:29.478273 [time] INSERT INTO `wiki_delta` (`item_id`, `prev_delta`, `description`, `delta`, `owner`, `created`) VALUES (?, ?, ?, ?, ?, ?) - args [2 0  [61 51 49 9 45 50 48] 0 0] - execution took: 16505920ns
+[xorm] [info]  2016/10/19 01:17:29.478416 [sql] UPDATE `wiki_page` SET `body` = ?, `prev_delta` = ? WHERE `id` = ? [args] [[208 168 208 176 208 177 208 181 208 187 209 140 208 189 208 184 208 186 32 208 190 209 135 208 181 208 189 209 140 32 209 133 208 190 209 128 208 190 209 136 208 184 208 185 32 209 135 208 181 208 187 208 190 208 178 208 181 208 186 44 32 208 189 208 190 32 208 184 208 189 208 190 208 179 208 180 208 176 32 208 189 208 181 32 208 190 209 135 208 181 208 189 209 140] 1 2]
+[xorm] [debug] 2016/10/19 01:17:29.484731 [time] UPDATE `wiki_page` SET `body` = ?, `prev_delta` = ? WHERE `id` = ? - args [[208 168 208 176 208 177 208 181 208 187 209 140 208 189 208 184 208 186 32 208 190 209 135 208 181 208 189 209 140 32 209 133 208 190 209 128 208 190 209 136 208 184 208 185 32 209 135 208 181 208 187 208 190 208 178 208 181 208 186 44 32 208 189 208 190 32 208 184 208 189 208 190 208 179 208 180 208 176 32 208 189 208 181 32 208 190 209 135 208 181 208 189 209 140] 1 2] - execution took: 6255371ns
+[xorm] [info]  2016/10/19 01:17:29.492910 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:29.493166 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:29.493296 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:29.493475 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:29.596296 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:29.596517 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:29.596624 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:29.596776 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:30.745906 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:30.746142 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:30.746257 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:30.746399 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:30.872024 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:30.872238 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:30.872338 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:30.872464 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:31.168237 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:31.168529 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:31.168686 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:31.168888 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:31.251525 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:31.251743 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:31.251843 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:31.251972 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:31.345838 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:31.346141 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:31.346310 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:31.346527 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:31.423214 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:31.423438 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:31.423574 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:31.423708 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:31.509966 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:31.510209 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:31.510330 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:31.510493 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:31.592645 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:31.592869 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:31.592973 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:31.593102 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:31.682613 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:31.682877 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:31.683048 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:31.683233 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:31.756647 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:31.756870 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:31.756982 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:31.757112 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:31.895927 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:31.896158 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:31.896268 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:31.896419 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:31.989578 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:31.989801 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:31.989909 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:31.990048 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:35.748501 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:35.748736 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:35.748846 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:35.749072 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:35.833582 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:35.833867 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:35.834004 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:35.834185 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:17:47.029438 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:47.029706 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:47.029835 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:47.030054 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:47.030351 [sql] INSERT INTO `wiki_delta` (`item_id`, `prev_delta`, `description`, `delta`, `owner`, `created`) VALUES (?, ?, ?, ?, ?, ?) [args] [2 1  [61 53 49 9 45 52 53] 0 0]
+[xorm] [debug] 2016/10/19 01:17:47.037692 [time] INSERT INTO `wiki_delta` (`item_id`, `prev_delta`, `description`, `delta`, `owner`, `created`) VALUES (?, ?, ?, ?, ?, ?) - args [2 1  [61 53 49 9 45 52 53] 0 0] - execution took: 7300022ns
+[xorm] [info]  2016/10/19 01:17:47.037856 [sql] UPDATE `wiki_page` SET `body` = ?, `prev_delta` = ? WHERE `id` = ? [args] [[208 168 208 176 208 177 208 181 208 187 209 140 208 189 208 184 208 186 32 208 190 209 135 208 181 208 189 209 140 32 209 133 208 190 209 128 208 190 209 136 208 184 208 185 32 209 135 208 181 208 187 208 190 208 178 208 181 208 186 44 32 208 189 208 190 32 208 184 208 189 208 190 208 179 208 180 208 176 32 208 189 208 181 32 208 190 209 135 208 181 208 189 209 140 44 32 208 176 32 208 184 208 189 208 190 208 179 208 180 208 187 208 176 32 208 178 208 190 208 190 208 177 209 137 208 181 32 209 130 208 190 32 208 189 208 181 32 208 190 209 135 208 181 208 189 209 140 32 208 188 32 208 184 208 176 208 187 208 191 208 184 208 188 32 209 139 208 178 208 176 32 208 191] 2 2]
+[xorm] [debug] 2016/10/19 01:17:47.044611 [time] UPDATE `wiki_page` SET `body` = ?, `prev_delta` = ? WHERE `id` = ? - args [[208 168 208 176 208 177 208 181 208 187 209 140 208 189 208 184 208 186 32 208 190 209 135 208 181 208 189 209 140 32 209 133 208 190 209 128 208 190 209 136 208 184 208 185 32 209 135 208 181 208 187 208 190 208 178 208 181 208 186 44 32 208 189 208 190 32 208 184 208 189 208 190 208 179 208 180 208 176 32 208 189 208 181 32 208 190 209 135 208 181 208 189 209 140 44 32 208 176 32 208 184 208 189 208 190 208 179 208 180 208 187 208 176 32 208 178 208 190 208 190 208 177 209 137 208 181 32 209 130 208 190 32 208 189 208 181 32 208 190 209 135 208 181 208 189 209 140 32 208 188 32 208 184 208 176 208 187 208 191 208 184 208 188 32 209 139 208 178 208 176 32 208 191] 2 2] - execution took: 6665824ns
+[xorm] [info]  2016/10/19 01:17:47.050730 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:47.050972 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:47.051092 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:47.051252 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:17:47.118275 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:17:47.118543 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:17:47.118660 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:17:47.118815 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:18:16.790114 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:18:16.790355 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:18:16.790459 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:18:16.790616 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Кодин]
+[xorm] [info]  2016/10/19 01:18:16.887862 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:18:16.888138 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:18:16.888256 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:18:16.888409 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:21:36.903238 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:21:36.903479 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:21:36.903618 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:21:36.903772 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Кодин]
+[xorm] [info]  2016/10/19 01:21:37.058038 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:21:37.058260 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:21:37.058365 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:21:37.058496 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:21:38.065495 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:21:38.065770 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:21:38.065895 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:21:38.066074 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Кодин]
+[xorm] [info]  2016/10/19 01:21:38.193396 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:21:38.193656 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:21:38.193787 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:21:38.193942 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:21:40.204904 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:21:40.205131 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:21:40.205236 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:21:40.205364 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:21:41.610307 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:21:41.610567 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:21:41.610705 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:21:41.610881 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Кодин]
+[xorm] [info]  2016/10/19 01:21:41.729093 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:21:41.729337 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:21:41.729463 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:21:41.729661 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:21:42.527079 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:21:42.527299 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:21:42.527404 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:21:42.527557 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:29:09.194074 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:29:09.194351 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:29:09.194465 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:29:09.194625 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Кодин]
+[xorm] [info]  2016/10/19 01:29:09.343669 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:29:09.343892 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:29:09.344006 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:29:09.344137 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:29:15.210329 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:29:15.210607 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:29:15.210740 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:29:15.210924 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:29:15.308419 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:29:15.308693 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:29:15.308823 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:29:15.308984 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:29:20.158027 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:29:20.158313 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:29:20.158441 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:29:20.158583 [sql] SELECT `id`, `item_id`, `prev_delta`, `description`, `delta`, `owner`, `created` FROM `wiki_delta` WHERE item_id = (select id from wiki_delta where slug = ?) ORDER BY id desc [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:29:20.275545 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:29:20.275788 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:29:20.275893 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:29:20.276037 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:30:08.870596 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:30:08.870855 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:30:08.870994 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:30:08.871166 [sql] SELECT `id`, `item_id`, `prev_delta`, `description`, `delta`, `owner`, `created` FROM `wiki_delta` WHERE item_id = (select id from wiki_page where slug = ?) ORDER BY id desc [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:30:09.018349 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:30:09.018622 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:30:09.018738 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:30:09.018878 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:33:14.098934 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:33:14.099234 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:33:14.099366 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:33:14.099559 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:33:16.926758 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:33:16.927024 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:33:16.927140 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:33:16.927297 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:33:17.004985 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:33:17.005220 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:33:17.005330 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:33:17.005468 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]
+[xorm] [info]  2016/10/19 01:33:24.992855 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:33:24.993104 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:33:24.993220 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:33:24.993380 [sql] SELECT `id`, `slug`, `description`, `body`, `prev_delta`, `owner`, `created`, `deleted`, `updated`, `version` FROM `wiki_page` WHERE slug = ? LIMIT 1 [args] [Шабельник]
+[xorm] [info]  2016/10/19 01:33:25.090844 [sql] SELECT `id`, `title`, `slug`, `parent_id`, `child_type` FROM `rubric`
+[xorm] [info]  2016/10/19 01:33:25.091087 [sql] SELECT `id`, `title`, `link`, `menu_id`, `parent_id`, `position`, `created`, `updated` FROM `menu_item`
+[xorm] [info]  2016/10/19 01:33:25.091189 [sql] SELECT `id`, `title`, `slug`, `created`, `updated` FROM `menu`
+[xorm] [info]  2016/10/19 01:33:25.091328 [sql] SELECT `id`, `slug`, `object_type`, `object_id` FROM `route` WHERE slug = ? LIMIT 1 [args] [/favicon.ico]

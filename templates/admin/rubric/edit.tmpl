@@ -1,0 +1,29 @@
+<form action="" method="post">
+	<div class="form-group">
+		<label for="title">Заголовок</label>
+		<input class="form-control" type="text" id="title" name="title" value="{{.rubric.Title}}">
+	</div>
+	<div class="form-group">
+		<label for="slug">Ссылка</label>
+		<input class="form-control" type="text" id="slug" name="slug" value="{{.rubric.Slug}}">
+	</div>
+	<div class="form-group">
+		<label for="parent">Родитель</label>
+		<select name="parent" id="">
+			<option value="0">Нет</option>
+		{{ range .Rubrics}} 
+			<option {{ if eq $.rubric.ParentId .Id}}selected="selected"{{ end }} value="{{ .Id }}">{{ .Title }}</option>{{ end }}
+		</select>
+	</div>
+	<div class="form-group">
+		<label for="item_type">Тип данных</label>
+		<select name="item_type" id="">
+			<option {{ if eq .rubric.ChildType 1}}selected="selected"{{ end }} value="1">Рубрика</option>
+			<option {{ if eq .rubric.ChildType 2}}selected="selected"{{ end }} value="2">Товар</option>
+			<option {{ if eq .rubric.ChildType 3}}selected="selected"{{ end }} value="3">Запись</option>
+		</select>
+	</div>
+	<button>Создать</button>
+</form>
+
+<a href="/admin/rubric/{{.rubric.Id}}/delete" class="btn btn-danger">Удалить</a>
